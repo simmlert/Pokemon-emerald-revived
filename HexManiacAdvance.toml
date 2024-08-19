@@ -7,7 +7,7 @@ ShowMatrixGrid = True
 FocusOnGotoShortcuts = True
 ZoomLevel = 16
 MaximumDiffSegments = 1000
-MaximumSearchResults = 400
+MaximumSearchResults = 1000
 CopyLimit = 40000
 AnimateScroll = True
 AutoAdjustDataWidth = True
@@ -22,7 +22,7 @@ MapTutorials = '''000000000000000000000000000000000000'''
 RecentFiles = []
 
 [Theme]
-PrimaryColor = "#DDDDDD"
+PrimaryColor = "#dddddd"
 BackgroundColor = "#222222"
 HueOffset= 0.1
 AccentSaturation = 0.7
