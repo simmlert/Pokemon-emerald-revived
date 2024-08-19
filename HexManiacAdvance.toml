@@ -1,0 +1,30 @@
+[GeneralSettings]
+LogAppStartupProgress = False
+UseTableEntryHeaders = True
+AllowSingleTableMode = True
+InsertAutoActive = True
+ShowMatrixGrid = True
+FocusOnGotoShortcuts = True
+ZoomLevel = 16
+MaximumDiffSegments = 1000
+MaximumSearchResults = 400
+CopyLimit = 40000
+AnimateScroll = True
+AutoAdjustDataWidth = True
+StretchData = True
+AllowMultipleElementsPerLine = False
+IsNewVersionAvailable = False
+LastUpdateCheck = 19.08.2024 21:38:41
+AcknowledgeTutorials = False
+Base10Length = False
+SpartanMode = False
+MapTutorials = '''000000000000000000000000000000000000'''
+RecentFiles = []
+
+[Theme]
+PrimaryColor = "#DDDDDD"
+BackgroundColor = "#222222"
+HueOffset= 0.1
+AccentSaturation = 0.7
+AccentValue = 0.7
+HighlightBrightness = 0.6
