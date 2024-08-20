@@ -4,7 +4,7 @@ UseTableEntryHeaders = True
 AllowSingleTableMode = True
 InsertAutoActive = True
 ShowMatrixGrid = True
-FocusOnGotoShortcuts = True
+FocusOnGotoShortcuts = False
 ZoomLevel = 16
 MaximumDiffSegments = 1000
 MaximumSearchResults = 1000
@@ -19,7 +19,7 @@ AcknowledgeTutorials = True
 Base10Length = False
 SpartanMode = False
 MapTutorials = '''101111101111000111001101000101010001'''
-RecentFiles = ["C:\Users\Juli\Documents\GitHub\Pokemon-emerald-revived\Pokemon - Emerald Version (U).gba"]
+RecentFiles = ["C:\Users\tobia\Desktop\Pokemon emerald revived\Pokemon-emerald-revived\Pokemon - Emerald Version (U).gba"]
 
 [Theme]
 PrimaryColor = "#dddddd"
