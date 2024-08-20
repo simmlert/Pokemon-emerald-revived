@@ -18,8 +18,8 @@ LastUpdateCheck = 19.08.2024 21:38:41
 AcknowledgeTutorials = True
 Base10Length = False
 SpartanMode = False
-MapTutorials = '''001000000100000010000000000000000000'''
-RecentFiles = ["C:\Users\tobia\Desktop\Pokemon emerald revived\Pokemon-emerald-revived\Pokemon - Emerald Version (U).gba"]
+MapTutorials = '''101111101111000111001101000101010001'''
+RecentFiles = ["C:\Users\Juli\Documents\GitHub\Pokemon-emerald-revived\Pokemon - Emerald Version (U).gba"]
 
 [Theme]
 PrimaryColor = "#dddddd"
