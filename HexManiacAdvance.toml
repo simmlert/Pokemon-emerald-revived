@@ -19,7 +19,7 @@ AcknowledgeTutorials = True
 Base10Length = False
 SpartanMode = False
 MapTutorials = '''111111101111000111101111000111110101'''
-RecentFiles = ["C:\Users\tobia\Desktop\Pokemon emerald revived\Pokemon-emerald-revived\Pokemon - Emerald Version (U).gba"]
+RecentFiles = ["C:\Users\Juli\Documents\GitHub\Pokemon-emerald-revived\Pokemon - Emerald Version (U).gba"]
 
 [Theme]
 PrimaryColor = "#dddddd"
