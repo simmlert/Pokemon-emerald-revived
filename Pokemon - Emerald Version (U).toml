@@ -1,6 +1,6 @@
 [General]
 ApplicationVersion = '''0.5.6'''
-FreeSpaceSearch = '''E4B280'''
+FreeSpaceSearch = '''E4DC00'''
 FreeSpaceBuffer = '''040'''
 NextExportID = '''0'''
 ShowRawIVByteForTrainer = False
@@ -267,7 +267,7 @@ DefaultHash = '''D7CD89A8'''
 [[NamedAnchors]]
 Name = '''data.maps.layouts'''
 Address = 0xE45580
-Format = '''[layout<[width:: height:: borderblock<[border:|h]4> blockmap<`blm`> blockdata1<[isCompressed. isSecondary. padding: tileset<> pal<`ucp4:0123456789ABCDEF`> blockset<> attributes<> animation<>]1> blockdata2<[isCompressed. isSecondary. padding: tileset<> pal<`ucp4:0123456789ABCDEF`> blockset<> attributes<> animation<>]1>]1>]442'''
+Format = '''[layout<[width:: height:: borderblock<[border:|h]4> blockmap<`blm`> blockdata1<[isCompressed. isSecondary. padding: tileset<> pal<`ucp4:0123456789ABCDEF`> blockset<> attributes<> animation<>]1> blockdata2<[isCompressed. isSecondary. padding: tileset<> pal<`ucp4:0123456789ABCDEF`> blockset<> attributes<> animation<>]1>]1>]445'''
 DefaultHash = '''09687918'''
 
 [[NamedAnchors]]
@@ -6354,8 +6354,8 @@ Destination = '''data.items.stats'''
 
 [[GotoShortcut]]
 Name = '''Maps'''
-Image = '''data.maps.banks/24/maps/9/map/0/layout/0/blockmap/'''
-Destination = '''maps.bank24.GRANITE CAVE.24-9'''
+Image = '''data.maps.banks/0/maps/31/map/0/layout/0/blockmap/'''
+Destination = '''maps.bank0.ROUTE 116.0-31'''
 
 #################################
 [[TableGroup]]
