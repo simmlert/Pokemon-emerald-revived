@@ -6354,8 +6354,8 @@ Destination = '''data.items.stats'''
 
 [[GotoShortcut]]
 Name = '''Maps'''
-Image = '''data.maps.banks/0/maps/22/map/0/layout/0/blockmap/'''
-Destination = '''maps.bank0.ROUTE 107.0-22'''
+Image = '''data.maps.banks/3/maps/3/map/0/layout/0/blockmap/'''
+Destination = '''maps.bank3.DEWFORD TOWN.3-3'''
 
 #################################
 [[TableGroup]]
