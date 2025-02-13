@@ -14,12 +14,12 @@ AutoAdjustDataWidth = True
 StretchData = True
 AllowMultipleElementsPerLine = False
 IsNewVersionAvailable = False
-LastUpdateCheck = 11.09.2024 22:23:56
+LastUpdateCheck = 11.02.2025 20:02:37
 AcknowledgeTutorials = True
 Base10Length = False
 SpartanMode = False
 MapTutorials = '''111111111111110111111111100111111101'''
-RecentFiles = ["C:\Users\Juli\Documents\GitHub\Pokemon-emerald-revived\Pokemon - Emerald Version (U).gba"]
+RecentFiles = ["C:\Users\tobia\Desktop\Pokemon emerald revived\Pokemon-emerald-revived\Pokemon - Emerald Version (U).gba"]
 
 [Theme]
 PrimaryColor = "#dddddd"
